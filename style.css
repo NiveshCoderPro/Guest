@@ -1,0 +1,21 @@
+input {
+    font-family:'Bukhari Script';
+}
+@font-face {
+    font-family:House-O-Rama;
+    src:url("Housearama-Kingpin.otf")
+}
+h1 {
+    font-family: House-O-Rama;
+}
+body {
+    text-align: center;
+}
+
+button {
+    color:red;
+    font-family:'Courier New', Courier, monospace;
+    background-color:yellow;
+    border-style:dashed;
+    border-color:red;
+}
